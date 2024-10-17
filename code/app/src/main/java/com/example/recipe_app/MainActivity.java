@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
         testRecipe.setRecipeTitle("Skillet Lasagna");
 
-        testIngredients.add("1 Tbsp Olive oil");
+        testIngredients.add("1 Tbsp Olive oils");
         testIngredients.add("1/2 lb. Italian Sausage");
         testIngredients.add("2 cloves garlic");
         testIngredients.add("24 oz. pasta sauce");
