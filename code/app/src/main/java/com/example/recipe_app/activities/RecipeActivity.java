@@ -1,4 +1,4 @@
-package com.example.recipe_app;
+package com.example.recipe_app.activities;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -14,8 +14,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import java.io.Serializable;
-import java.util.ArrayList;
+import com.example.recipe_app.R;
+import com.example.recipe_app.Recipe;
 
 public class RecipeActivity extends AppCompatActivity {
 
